@@ -1,18 +1,18 @@
 Pizza Sales Analysis – SQL Project
 📌 Overview
 
-This project focuses on analyzing pizza sales data using SQL. 
-The database contains information about orders, order details, pizza types, and prices. 
-By running SQL queries, we uncover insights into customer preferences, 
-revenue generation, and business performance.
+This project focuses on analyzing pizza sales data using SQL. The database contains information about orders, order details, pizza types, and prices. By running SQL queries, we uncover insights into customer preferences, revenue generation, and business performance.
 
 🗂️ Database Structure
 
 The project uses a schema named pizzahut with the following tables:
 
 orders → Stores order details (order ID, order date, order time).
+
 order_details → Contains order items (order details ID, order ID, pizza ID, quantity).
+
 pizza_types → Includes pizza type, category, and ingredients.
+
 pizzas → Holds pizza size, price, and mapping to types.
 
 ⚙️ Key SQL Queries & Insights
@@ -49,16 +49,21 @@ Run the queries step by step to explore insights.
 📈 Learning Outcomes
 
 Hands-on practice with SQL joins, aggregation, and window functions.
+
 Real-world business analysis using structured queries.
+
 Experience in analyzing sales performance & customer behavior.
 
 🛠️ Tech Stack
 
 Database: MySQL
+
 Language: SQL
 
 📬 **Contact**
 
 👤 Shubham Kumar
+
 LinkedIn: (https://www.linkedin.com/in/shubham-kumar-88419a1a0)
+
 Email: kumarshubham19277@gmail.com
